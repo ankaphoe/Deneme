@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1417560,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2",VIDEO-RANGE=SDR
-https://dizipal.moviedb.shop/pal/Get3/?v=https://manchester.cdn77.host/hls2/01/00024/xfgrnmraq3uz_n/index-v1-a1.m3u8$t=khBuWU0Tr9tpzRG0QpFmvWIp3J2Acdrv0GGQuNvKzqA*s=1711404652*e=43200*f=123486*srv=x2*i=0.0*sp=5000*fr=xfgrnmraq3uz*p1=manchester*p2=manchester
-
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=102583,RESOLUTION=1280x720,CODECS="avc1.64001f",URI="https://dizipal.moviedb.shop/pal/Get3/?v=https://manchester.cdn77.host/hls2/01/00024/xfgrnmraq3uz_n/iframes-v1-a1.m3u8$t=khBuWU0Tr9tpzRG0QpFmvWIp3J2Acdrv0GGQuNvKzqA*s=1711404652*e=43200*f=123486*srv=x2*i=0.0*sp=5000*fr=xfgrnmraq3uz*p1=manchester*p2=manchester",VIDEO-RANGE=SDR
