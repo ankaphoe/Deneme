@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="1" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TRT 1
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NTIyMDAxMzU2MjEwZDFkY2NlMTI=
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NjIxOTkyNTgyMjJkOGNkODFkYzE=
 
 #EXTINF:-1 tvg-id="ext" tvg-name="2" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TRT 2
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMDUzMDUxMzJlNjlmYzlkZGYwYjY=
@@ -21,7 +21,7 @@ https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxOTI5NzEyOTM1NTU5MzZhOGI3Yzc=
 
 #EXTINF:-1 tvg-id="ext" tvg-name="8" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",NOW
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzOTg1MDQ5NjFmNDI0ZjBlY2M2NTU=
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NzgxOTc1OTNkODliZWE0MDhjN2E=
 
 #EXTINF:-1 tvg-id="ext" tvg-name="21" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",24 KITCHEN
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMjk1MDQ4NDNhYTA1NWQzMzNlMDk=
