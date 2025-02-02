@@ -2,16 +2,9 @@
     "apiUrl": "https://yakamozsanat.xyz/appMainGetData.php",
     "updateConfig": {
         "updateVersiyon": "1.1.1",
-        "updateTitle": "Yeni Güncelleme Var!",
-        "updateYenilik": "Yenilikler
-1- Reklam sorunu giderildi
-2- Kanal listesi playere eklendi 
-3- 24 saatlik yayınlar güncellendi 
-4- Gece modundaki problemler giderildi ",
-        "updateLink": "Yenilikler
-1- Reklam sorunu giderildi
-2- Kanal listesi playere eklendi 
-3- 24 saatlik yayınlar güncellendi 
-4- Gece modundaki problemler giderildi "
-    }
+        "updateTitle": "Şimdi Güncelleme Zamanı!",
+        "updateYenilik": "deneme",
+        "updateLink": "deneme"
+    },
+     "appSignature": "9275CEE1FD47B543412DE852C118A0663E40AA83EG12"
 }
