@@ -1,5 +1,5 @@
 {
-    "apiUrl": "https://worker-billowing-forest-b35e.f593400.workers.dev/",
+    "apiUrl": "https://worker-billowing-forest-b35e.f593400.workers.dev/appMainGetData.php",
     "updateConfig": {
         "updateVersiyon": "1.1.1",
         "updateTitle": "Yeni Güncelleme Var!",
