@@ -1,5 +1,5 @@
 {
-    "apiUrl": "https://yakamozsanat.online/appMainGetData.php",
+    "apiUrl": "https://panel1.yakamozsanat.online/appMainGetData.php",
     "updateConfig": {
         "updateVersiyon": "1.1.1",
         "updateTitle": "Yeni Güncelleme Var!",
