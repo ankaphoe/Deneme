@@ -1,5 +1,5 @@
 {
-    "apiUrl": "https://image.influencermarketing.ai//appMainGetData.php",
+    "apiUrl": "/appMainGetData.php",
     "updateConfig": {
         "updateVersiyon": "1.1.1",
         "updateTitle": "Yeni Güncelleme Var!",
