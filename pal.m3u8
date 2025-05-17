@@ -1,9 +1,8 @@
 #EXTM3U
-
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="English",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://weboz.online/pal/Get3/?v=https://bydgoszcz.cdn77.host/hls2/02/00024/xum8tecyuvqj_n/index-a1.m3u8$t=nTBbyqxKtdcyhkq7JXUJ9b0eQ7wArvdzWGSqIhW3xN4*s=1715286457*e=43200*f=124343*srv=x1*i=0.0*sp=5000*fr=xum8tecyuvqj*p1=bydgoszcz*p2=bydgoszcz"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="Türkçe",LANGUAGE="tr",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://weboz.online/pal/Get3/?v=https://bydgoszcz.cdn77.host/hls2/02/00024/xum8tecyuvqj_n/index-a2.m3u8$t=nTBbyqxKtdcyhkq7JXUJ9b0eQ7wArvdzWGSqIhW3xN4*s=1715286457*e=43200*f=124343*srv=x1*i=0.0*sp=5000*fr=xum8tecyuvqj*p1=bydgoszcz*p2=bydgoszcz"
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1419791,RESOLUTION=1280x720,FRAME-RATE=23.974,CODECS="avc1.64001f,mp4a.40.2",AUDIO="audio0"
-https://weboz.online/pal/Get3/?v=https://bydgoszcz.cdn77.host/hls2/02/00024/xum8tecyuvqj_n/index-v1-a1.m3u8$t=nTBbyqxKtdcyhkq7JXUJ9b0eQ7wArvdzWGSqIhW3xN4*s=1715286457*e=43200*f=124343*srv=x1*i=0.0*sp=5000*fr=xum8tecyuvqj*p1=bydgoszcz*p2=bydgoszcz
-
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=94739,RESOLUTION=1280x720,CODECS="avc1.64001f",URI="https://weboz.online/pal/Get3/?v=https://bydgoszcz.cdn77.host/hls2/02/00024/xum8tecyuvqj_n/iframes-v1-a1.m3u8$t=nTBbyqxKtdcyhkq7JXUJ9b0eQ7wArvdzWGSqIhW3xN4*s=1715286457*e=43200*f=124343*srv=x1*i=0.0*sp=5000*fr=xum8tecyuvqj*p1=bydgoszcz*p2=bydgoszcz"
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,RESOLUTION=1920x1080
+https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS85NTAzOTQ2NTY4Mzc3ZTFiYTE0Yzg=
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,RESOLUTION=1280x720
+https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS85NTAzOTQ2NTY4Mzc3ZTFiYTE0Yzg=
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000,RESOLUTION=854x480
+https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS85NTAzOTQ2NTY4Mzc3ZTFiYTE0Yzg=
