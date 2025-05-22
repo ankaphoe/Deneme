@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,RESOLUTION=1920x1080
-https://vz-245cc3a0-36f.b-cdn.net/028b6cc4-228e-49cb-bd88-9a3cba2d90c9/playlist.m3u8
+https://vz-245cc3a0-36f.b-cdn.net/028b6cc4-228e-49cb-bd88-9a3cba2d90c9/720p/video.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,RESOLUTION=1280x720
-https://vz-245cc3a0-36f.b-cdn.net/028b6cc4-228e-49cb-bd88-9a3cba2d90c9/playlist.m3u8
+https://vz-245cc3a0-36f.b-cdn.net/028b6cc4-228e-49cb-bd88-9a3cba2d90c9/720p/video.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000,RESOLUTION=854x480
-https://vz-245cc3a0-36f.b-cdn.net/028b6cc4-228e-49cb-bd88-9a3cba2d90c9/playlist.m3u8
+https://vz-245cc3a0-36f.b-cdn.net/028b6cc4-228e-49cb-bd88-9a3cba2d90c9/720p/video.m3u8
