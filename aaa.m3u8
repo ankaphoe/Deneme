@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="Tomb Raider (2018) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PYMNVXXyeOPhsLB3fcsHYbm86D.jpg" group-title="TR | 4K FILMLER",Tomb Raider (2018) 4K
+#EXTINF:-1
 https://cors.registraunaestrella.com/http://195.201.164.246:1234/stream/newtivify/teslms/master.m3u8
